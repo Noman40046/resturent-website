@@ -1,0 +1,129 @@
+
+
+@media only screen and (max-width: 767px) and (min-width:0px)
+ {
+    .link-section
+{
+    
+    padding: 2px 2px 2px 2px;
+}
+.number,.your-mail,.opn-cls
+{
+    
+    font-size: 8px;
+}
+
+.navbar-brand
+{   
+    font-size: 25px;     
+}
+
+.navigation-bar
+{
+    padding: 5px;
+}
+
+.navbar-toggler-icon
+{
+    width: 20px;
+    height: 30px;
+    color: white;
+}
+
+.br-link
+{
+    margin-left: 150px;
+}
+.navbar-nav 
+{
+    margin-left: -330px;
+}
+
+.resturent-img1 ,.resturent-img2
+{
+    max-width: 40%;
+}
+.make-reservation {
+    font-size: 1.2rem;
+    padding: .55rem 1rem;
+  }
+.first-carosel
+{
+    display: none;
+}
+.number2
+{
+    font-size: 30px;
+    
+}
+
+.testimonial
+{
+    height: 1000px;
+    margin-bottom: 150px;
+}
+.date-input
+{
+    margin-bottom: 2px;
+}
+
+.all-resurvation
+{
+    display: flex;
+    flex-direction: column;
+}
+.devider
+{
+    display: none;
+    
+}
+.reserve 
+{
+    width: 335px;
+}
+.all-input
+{
+    padding: 10px 10px;
+   
+}
+.resturent-name, .creating-service, .gallery-heading, .our-menu, .our-chef, .testimonial-heading, .contact-us
+{
+    font-size: 35px;
+}
+
+.make-reserve
+{
+    display: none;
+}
+
+ }
+
+ @media only screen and (max-width: 991px) and (min-width:768px)
+ {
+    .br-link
+    {
+        margin-left: 350px;
+    }
+
+    .navbar-nav 
+    {
+        margin-left: -530px;
+    }
+
+    .reserve 
+    {
+        width: 700px;
+    }
+    .image-element
+    {
+        width: 35%;
+        margin-left: 30px;
+    }
+
+
+    .all-res-img
+    {
+        width: 0px;
+        
+    }
+ }
